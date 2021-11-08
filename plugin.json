@@ -1,0 +1,13 @@
+{
+    "version": "1.0.0",
+    "title": "Moondeer's Disqus",
+    "description": "Plugin for injecting Disqus comments.",
+    "includes": [],
+    "fields": [
+        {
+            "field": "params.disqus_short_name",
+            "label": "Short Name",
+            "placeholder": ""
+        }
+    ]
+  }
